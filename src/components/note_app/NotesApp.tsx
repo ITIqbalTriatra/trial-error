@@ -3,7 +3,7 @@ import Footer from "./Footer"
 import Form from "./Form"
 import GroceryList from "./GroceryList"
 import Header from "./Header"
-import ProgressBar from "./ProgressBar"
+import ProgressBar from "../ProgressBar"
 
 const groceryItems = [
   {
